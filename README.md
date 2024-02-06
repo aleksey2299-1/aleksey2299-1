@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**My name is Sinyukov Aleksey.**
+**My name is Sinyukov Aleksey. I'm 26 years old and currently junior backend developer.**
+***
+Current stack:
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/cis/java/)
@@ -13,9 +15,9 @@
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
-
+***
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleksey2299-1)](https://github.com/aleksey2299-1/github-profile-trophy)
-
+***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey2299-1&layout=compact)](https://github.com/aleksey2299-1/github-readme-stats)
 
 <!--
