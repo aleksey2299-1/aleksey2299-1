@@ -4,6 +4,15 @@
 ***
 Current stack:
 
+[![Typescript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Javascript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
+[![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage/)
+[![React Hook Form](https://skillicons.dev/icons?i=reacthookform)](https://react-hook-form.com/)
+
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/cis/java/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
