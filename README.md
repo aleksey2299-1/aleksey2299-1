@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Sinyukov Aleksey. I'm 26 years old and currently junior backend developer.**
+**My name is Sinyukov Aleksey. I'm 27 years old and currently junior backend developer.**
 ***
 Current stack:
 
